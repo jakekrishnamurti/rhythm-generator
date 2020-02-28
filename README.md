@@ -22,6 +22,7 @@ Install with `pip install -U wxPython`
 [LilyPond](http://lilypond.org/) is used for the creation of the sheet music\
 Download the installer from [here](http://lilypond.org/windows.html) and make sure to add LilyPond to the PATH environment variable as shown on the webpage
 
+I have tested the code on OSX and after following the instructions [here](https://stackoverflow.com/questions/48531006/wxpython-this-program-needs-access-to-the-screen) it runs. However, the PDF file gets saved in the main directory rather than displayed by wxPython (PDFWindow only supports Windows) and the layout of the interface isn't right. I will test on Linux soon.
 
 ## **Future Plans:**
 
