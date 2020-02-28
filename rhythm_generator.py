@@ -155,7 +155,7 @@ def generate_bars(difficulty, number_of_bars):
                 bar = bar + "b'8. "
                 totalLength+=1
 
-            #Quaver + DOtted Crotchet (can only be placed on beat 1 or 3)
+            #Quaver + Dotted Crotchet (can only be placed on beat 1 or 3)
             elif pattern == 18:
                 if totalLength == 0 or totalLength == 2:
                     bar = bar + "b'8 "
