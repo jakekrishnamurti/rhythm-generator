@@ -18,7 +18,7 @@ This program has a few dependencies which need to be installed
 
 [wxPython](https://wxpython.org/) is used for the GUI
 
-Install with `pip install -U wxPython` <br/>
+Install with `pip install -U wxPython` <br />
 
 
 [LilyPond](http://lilypond.org/) is used for the creation of the exercise document
