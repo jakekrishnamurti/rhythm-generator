@@ -32,7 +32,7 @@ I have tested the code on OSX and after following the instructions [here](https:
 * Add support for ties
 * Add a playback feature which can demonstrate the correct rhythms
 * Add the abilty to generate multiple exercises in one document
-* Add cross-platform support (i.e. replace wxPython): PDFWindow from wxPython only supports Windows and wxPython has issues with OSX
+* Add cross-platform support (i.e. replace wxPython): PDFWindow from wxPython only supports Windows and wxPython has issues with OSX so I need to use something else
 
 ## **Attributions**
 
