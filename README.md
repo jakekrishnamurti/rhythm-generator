@@ -31,7 +31,7 @@ Download the installer from [here](http://lilypond.org/windows.html) and make su
 * Add support for ties
 * Add a playback feature which can demonstrate the correct rhythms
 * Add the abilty to generate multiple exercises in one document
-* Add cross-platform support: PDFWindow from wxPython only supports Windows
+* Add cross-platform support (i.e. replace wxPython): PDFWindow from wxPython only supports Windows and wxPython has issues with OSX
 
 ## **Attributions**
 
