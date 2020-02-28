@@ -7,7 +7,7 @@ Useful for producing clapping exercises for students or to test your own rhythmi
 
 Simply run main.py and enter the difficulty of the exercise and the number of bars to create
 
-Press generate and window will open with the exercise
+Press generate and a window will open with the sheet music of the exercise
 
 The exercise can also be saved or printed
 
