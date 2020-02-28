@@ -14,7 +14,7 @@ The sheet music can also be saved or printed
 
 ## **Running the Code:**
 
-This program currently on;y supports Windows and has a few dependencies which need to be installed
+This program currently only supports Windows and has a few dependencies which need to be installed
 
 [wxPython](https://wxpython.org/) is used for the GUI\
 Install with `pip install -U wxPython`  
