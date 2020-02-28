@@ -36,7 +36,7 @@ I have tested the code on OSX and after following the instructions [here](https:
 
 ## **Known Issues:**
 
-* Trying to create an exercise with a very large number of bars (around 900+) causes LilyPond to fail to create the PDF (so I have limited the maximum number of bars to 200 for now)
+* Trying to create an exercise with a very large number of bars (around 900+) causes LilyPond to fail to create a PDF (so I have limited the maximum number of bars to 200 for now)
 
 ## **Attributions**
 
