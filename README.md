@@ -10,3 +10,16 @@ Simply run main.py and enter the difficulty of the exercise and the number of ba
 Press generate and window will open with the exercise
 
 The exercise can also be saved or printed
+
+
+## **Running the Code:**
+
+This program has a few dependencies which need to be installed
+
+[wxPython](https://wxpython.org/). test
+
+Install with `pip install -U wxPython`
+
+[LilyPond](http://lilypond.org/).
+
+Download the installer from [here](http://lilypond.org/download.html).
