@@ -26,7 +26,7 @@ Download the installer from [here](http://lilypond.org/windows.html) and make su
 ## **Future Plans:**
 
 * Add more time signatures (currently only outputs in 4/4)
-* Add more rhythm patterns
+* Add more rhythm patterns (and make a better system for creating them)
 * Add the ability to change time signatures during the exercise
 * Add support for ties
 * Add a playback feature which can demonstrate the correct rhythms
