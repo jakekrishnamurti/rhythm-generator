@@ -9,7 +9,7 @@ Simply run main.py and enter the difficulty of the exercise and the number of ba
 
 Press generate and a window will open with the sheet music of the exercise
 
-The exercise can also be saved or printed
+The sheet music can also be saved or printed
 
 
 ## **Running the Code:**
