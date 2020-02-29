@@ -1,5 +1,5 @@
 # rhythm-generator
-A python program that generates random rhythm exercises
+A Python program that generates random rhythm exercises
 
 Useful for producing clapping exercises for students or to test your own rhythmic accuracy
 
