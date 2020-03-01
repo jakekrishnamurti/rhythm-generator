@@ -34,7 +34,7 @@ I have tested the code on OSX and it runs after following the instructions [here
 * Add the abilty to generate multiple exercises in one document
 * Add cross-platform support (i.e. replace wxPython): PDFWindow from wxPython only supports Windows and wxPython has issues with OSX so I need to use something else
 
-## **Known Issues:**
+## **Known Problems:**
 
 * Trying to create an exercise with a very large number of bars (around 900+) causes LilyPond to fail to create a PDF (so I have limited the maximum number of bars to 200 for now)
 
