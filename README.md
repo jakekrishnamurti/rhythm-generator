@@ -27,7 +27,7 @@ I have tested the code on OSX and it runs after following the instructions [here
 ## **Future Plans:**
 
 * Add more time signatures (currently only outputs in 4/4)
-* Add more rhythm patterns (and make a better system for creating them)
+* Add more rhythm patterns (and make a better system for creating them e.g. a Patterns Class)
 * Add the ability to change time signatures during the exercise
 * Add support for ties
 * Add a playback feature which can demonstrate the correct rhythms
