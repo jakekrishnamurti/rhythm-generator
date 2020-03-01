@@ -14,22 +14,22 @@ def generate_bars(difficulty, number_of_bars):
 
         totalLength = 0
 
-        #Patterns for 4/4 bars
+        #Patterns for 4/4 bars. Need to make some kind of patterns/difficulty class to make this more efficient/look nicer i.e. fewer if/elif statements
         while totalLength < 4:
 
             if difficulty == 1:
                 pattern = random.randint(1,6)
 
-            if difficulty == 2:
+            elif difficulty == 2:
                 pattern = random.randint(1,9)
 
-            if difficulty == 3:
+            elif difficulty == 3:
                 pattern = random.randint(1,18)
 
-            if difficulty == 4:
+            elif difficulty == 4:
                 pattern = random.randint(1,26)
 
-            if difficulty == 5:
+            elif difficulty == 5:
                 pattern = random.randint(1,32)
 
 
